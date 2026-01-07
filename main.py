@@ -1,9 +1,3 @@
-"""
-JSON Documentation Viewer - Version Flet 0.28.x
-Application de visualisation de documentation JSON avec support du mode clair/sombre,
-recherche, favoris et rendu Markdown.
-"""
-
 import flet as ft
 from flet import Icons, Colors
 import json
